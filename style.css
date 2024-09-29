@@ -5,6 +5,7 @@ html {
 
 body {
   background-color: gray;
+  background-image: radial-gradient(circle, orange, purple, gray, orange);
   margin: 0;
   padding: 0;
   height: 100%;
