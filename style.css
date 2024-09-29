@@ -5,8 +5,12 @@ body {
 
 }
 
-iframe {
-  width:  100vw;
-  height: 60vh;
+main {
+  width: 100vw;
+  height: 90vh;
+}
 
+iframe {
+  width:  90vw;
+  height: 60vh;
 }
