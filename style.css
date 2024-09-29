@@ -25,7 +25,8 @@ header h1 {
 }
 
 iframe {
-  
-  width:  960px;
-  height: 540px;
+  display: block;
+  object-fit: contain;
+  height: 100%;
+  width: 50%;  
 }
