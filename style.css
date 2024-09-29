@@ -4,3 +4,9 @@ body {
   background-color: gray;
 
 }
+
+iframe {
+  width:  100vw;
+  height: 60vh;
+
+}
