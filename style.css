@@ -10,6 +10,14 @@ body {
 main {
   width: 100vw;
   height: 90vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header h1 {
+  text-align: center;
 }
 
 iframe {
