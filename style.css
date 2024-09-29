@@ -21,7 +21,7 @@ main {
 }
 
 header h1 {
-  background-color: black;
+  background-color: darkgray;
   color: white;
   text-align: center;
 }
@@ -30,5 +30,5 @@ iframe {
   display: block;
   object-fit: contain;
   height: 100%;
-  width: 80%;  
+  width: 80%;
 }
